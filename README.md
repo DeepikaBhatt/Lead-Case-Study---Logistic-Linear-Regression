@@ -9,11 +9,17 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
 ## Observations
 The Education company needs to focus on the following factors in order to improve the conversion rate of leads.
+
 • The leads who are tagged as 'Closed By Horizon' have a very high conversion rate.
+
 • The leads who are tagged as 'Will revert after reading email' have a good conversion rate and the number of customers tagged to this are very high and therefore these leads need to be focused more.
+
 • The leads with lead source 'Welingak website' have a high conversion rate.
+
 • The leads with Last notable activity 'SMS sent' have a high conversion rate.
+
 • The total time spent on the Website has an impact on the conversion rate.
+
 • Leads who are working professionals have a high conversion rate.
 
 ## Data Source
